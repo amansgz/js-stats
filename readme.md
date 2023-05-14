@@ -7,4 +7,4 @@
 + Calculate and Display Statistics.
 + Access Live Public Data with JQuery/Ajax.
 
-[Live demo](https://codernami.github.io/js-stats/)
+[Live demo](https://amansgz.github.io/js-stats/)
