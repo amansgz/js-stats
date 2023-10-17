@@ -1,9 +1,19 @@
-.tableFixHead          { overflow-y: auto; height: 240px;}
-.tableFixHead thead th { position: sticky; top: 0; background-color: #c7057c ;}
-
-/* Just common table stuff. Really. */
-table  { border-collapse: collapse; width: 100%; background-color: #e5edf0; }
-
-/*110,33,71*/
-
-.tableFixHead2 thead th { position: sticky; top: 0; background-color: rgb(110,33,71) ;}
+body {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.2rem;
+}
+.fs-8 {
+  font-size: 1rem;
+}
+table  { 
+  border-collapse: collapse; 
+  width: 100%; 
+}
+.tableFixHead { 
+  overflow-y: auto; 
+  height: 240px;
+}
+.tableFixHead thead th { 
+  position: sticky; 
+  top: 0; 
+}

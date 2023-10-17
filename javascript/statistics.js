@@ -103,7 +103,7 @@ document.getElementById("congress-data").innerHTML = `<tr>
     <td>${statistics.votI} %</td>
 </tr>
 <tr>
-    <td class="font-weight-bold">Total</td>
+    <td class="fw-bold">Total</td>
     <td>${statistics.totMembers}</td>
     <td>${statistics.totVotParty} %</td>
 </tr>
