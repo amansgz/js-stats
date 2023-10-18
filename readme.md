@@ -8,3 +8,5 @@
 + Access Live Public Data with JQuery/Ajax.
 
 [Live demo](https://amansgz.github.io/js-stats/)
+
+![preview screenshot](./img/preview.png)
